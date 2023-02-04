@@ -1,4 +1,4 @@
-# HOMELOAN-2022
+# HOMELOAN RISK PREDICTION-2022
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. 
