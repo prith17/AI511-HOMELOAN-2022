@@ -5,5 +5,5 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
 
 In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
-This porject predicts if a customer is at risk of defaulting their loan
+This project predicts if a customer is at risk of defaulting their loan
 
